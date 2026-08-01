@@ -129,8 +129,8 @@
     color: white;
     font-size: 30px;
     text-align: center;
-
-}
+    background-color: rgb(84, 104, 94);
+    }
 
 #copuright{
     top: 555px;
